@@ -153,3 +153,14 @@ The Logistics Multi-Agent AI System can be enhanced with the following features:
 ## SDAIA Academy GitHub Repository
 
 https://github.com/SDAIAAcademy
+
+## Contributors
+
+This project was developed collaboratively by the following team members:
+
+| Name | GitHub Profile |
+|---|---|
+| Noura Alzahrani | [@nouraalzahrani](https://github.com/nouraalzahrani) |
+| Manar Alosaimi | [@Eng-Manar-Alosaimi](https://github.com/Eng-Manar-Alosaimi) |
+| Heton Almohana | [@HetonAl](https://github.com/HetonAl) |
+| Dhuha Alabdulwahab | [@Dhuha720](https://github.com/Dhuha720) |
